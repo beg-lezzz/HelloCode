@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example001", "Example001\Example001.csproj", "{890CDC20-51A6-41D4-B680-DF0276A602AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example001_HelloWorld", "Example001_HelloWorld\Example001_HelloWorld.csproj", "{890CDC20-51A6-41D4-B680-DF0276A602AC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example002_HelloUser", "Example002_HelloUser\Example002_HelloUser.csproj", "{26B29778-38A4-4EC3-AA41-7EB6FDF6B5EE}"
 EndProject
