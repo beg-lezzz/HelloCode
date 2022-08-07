@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example009_Like", "Example0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example010_RecursionArrays", "Example010_RecursionArrays\Example010_RecursionArrays.csproj", "{5EE64939-3B4B-4597-AE24-5096C2FD3A3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example011_Fibonache", "Example011_Fibonache\Example011_Fibonache.csproj", "{10945B3B-0FD2-4C63-A1A4-7E93FBFFC8D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{5EE64939-3B4B-4597-AE24-5096C2FD3A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EE64939-3B4B-4597-AE24-5096C2FD3A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EE64939-3B4B-4597-AE24-5096C2FD3A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10945B3B-0FD2-4C63-A1A4-7E93FBFFC8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10945B3B-0FD2-4C63-A1A4-7E93FBFFC8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10945B3B-0FD2-4C63-A1A4-7E93FBFFC8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10945B3B-0FD2-4C63-A1A4-7E93FBFFC8D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
